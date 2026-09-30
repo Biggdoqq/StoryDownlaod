@@ -33,6 +33,7 @@ __pycache__/
 *.jar
 *.bin
 *.exe
+*.zip
 
 # Allow only public README and .gitignore on GitHub
 !.gitignore
