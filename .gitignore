@@ -1,0 +1,36 @@
+# Ignore all source code and application files
+*.py
+*.iss
+*.json
+*.ico
+*.png
+*.txt
+*.db
+HongguoDownloader.spec
+build/
+dist/
+engine/
+app/
+scratch/
+Downloaded_Videos/
+Posters/
+temp/
+HongguoDownloader_Updates/
+*.log
+crash.log
+.vscode/
+.idea/
+
+# Byte-compiled / binary
+__pycache__/
+*.py[cod]
+*$py.class
+*.dll
+*.so
+*.jar
+*.bin
+*.exe
+
+# Allow only public README and .gitignore on GitHub
+!.gitignore
+!README.md
