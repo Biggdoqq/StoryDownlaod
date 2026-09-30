@@ -6,9 +6,11 @@
 *.png
 *.txt
 *.db
-HongguoDownloader.spec
+*.spec
 build/
 dist/
+build_admin/
+dist_admin/
 engine/
 app/
 scratch/
