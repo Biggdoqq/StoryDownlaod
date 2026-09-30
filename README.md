@@ -1,11 +1,12 @@
-# Hongguo Drama VIP Downloader (红果短剧) 🎬 v1.0.7
+# Hongguo Drama VIP Downloader (红果短剧) 🎬 v1.1.1
 
 កម្មវិធី Desktop ទំនើប និងស្រស់ស្អាត (Modern PyQt6 Cinema UI) សម្រាប់រុករក មើលតារាងរឿងល្បីៗ រក្សាទុក្ខរឿងដែលចូលចិត្ត និងដោនឡូតវីដេអូរឿងពេញកម្រិត 1080p Full HD MP4 គ្រប់ភាគដោយឥតគិតថ្លៃ (VIP Unlimited)។
 
 ---
 
 ## 📥 ទាញយកកម្មវិធី (Download Installer)
-* 🚀 **ទាញយកជំនាន់ចុងក្រោយ**: [HongguoDownloader-Setup.exe (v1.0.7)](https://github.com/Biggdoqq/StoryDownlaod/releases/download/v1.0.7/HongguoDownloader-Setup.exe)
+* 🚀 **ទាញយកជំនាន់ចុងក្រោយ**: [HongguoDownloader-Setup.exe (v1.1.1)](https://github.com/Biggdoqq/StoryDownlaod/releases/download/v1.1.1/HongguoDownloader-Setup.exe)
+* ⚡ **Smart Patch (Update លឿន 3.5 MB)**: [HongguoDownloader-Patch.zip (v1.1.1)](https://github.com/Biggdoqq/StoryDownlaod/releases/download/v1.1.1/HongguoDownloader-Patch.zip)
 * 📦 **ទំព័រ Releases ទាំងអស់**: [GitHub Releases](https://github.com/Biggdoqq/StoryDownlaod/releases)
 
 ---
