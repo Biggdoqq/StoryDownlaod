@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.dll
+*.so
+*.jar
+*.bin
+
+# PyInstaller & Build artifacts
+build/
+dist/
+*.spec
+*.exe
+HongguoDownloader-Setup.exe
+
+# Large engine and backend binary dependencies
+engine/
+app/tools/
+app/sign/
+app/capture/
+
+# Sensitive API Keys / Service Account Credentials
+kvn_credentials.json
+*.key
+*.pem
+
+# Local databases and downloads
+*.db
+Downloaded_Videos/
+Posters/
+temp/
+HongguoDownloader_Updates/
+
+# Temporary / Scratch / Logs
+scratch/
+*.log
+crash.log
+.vscode/
+.idea/
